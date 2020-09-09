@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Calculate
+comment1.params=
+comment1.target=Calculate()
+comment2.params=price\ rateVat\ rateTax
+comment2.target=double\ calculate(double,\ double,\ double)
+numComments=3

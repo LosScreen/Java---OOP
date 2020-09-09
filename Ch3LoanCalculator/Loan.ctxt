@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Loan
+comment1.params=amount
+comment1.target=void\ setAmount(double)
+comment2.params=annualRate
+comment2.target=void\ setRate(double)
+comment3.params=periodInYears
+comment3.target=void\ setPeriod(int)
+comment4.params=
+comment4.target=double\ getAmount()
+comment5.params=
+comment5.target=int\ getPeriod()
+comment6.params=
+comment6.target=double\ getRate()
+comment7.params=interestRatePlus
+comment7.target=double\ getMonthlyPayment(double)
+comment8.params=
+comment8.target=double\ getTotalPayment()
+numComments=9

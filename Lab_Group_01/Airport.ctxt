@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Airport
+comment1.params=AirlineName
+comment1.target=boolean\ RegisterAirline(java.lang.String)
+comment2.params=planeLanding
+comment2.target=boolean\ PlaneCheckIn(Plane)
+comment3.params=planeTakeOff
+comment3.target=boolean\ PlaneCheckOut(Plane)
+comment4.params=passengerIn
+comment4.target=boolean\ PassengerCheckIn(Passenger)
+comment5.params=passengerOut
+comment5.target=boolean\ PssengerCheckOut(Passenger)
+comment6.params=Name
+comment6.target=boolean\ PssengerCheckOut(java.lang.String)
+comment7.params=position
+comment7.target=boolean\ PssengerCheckOut(int)
+comment8.params=Name
+comment8.target=Passenger\ getPassengerInfo(java.lang.String)
+comment9.params=passengerName
+comment9.target=void\ SearchTicketInfo(java.lang.String)
+numComments=10

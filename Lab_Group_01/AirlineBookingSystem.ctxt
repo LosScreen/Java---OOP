@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=AirlineBookingSystem
+comment1.params=airport
+comment1.target=AirlineBookingSystem(Airport)
+comment2.params=Name
+comment2.target=void\ BuyTicket(java.lang.String)
+numComments=3

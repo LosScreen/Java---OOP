@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Passenger
+comment1.params=
+comment1.target=boolean\ CheckArrived()
+comment2.params=ticket
+comment2.target=void\ BuyTicket(Ticket)
+numComments=3

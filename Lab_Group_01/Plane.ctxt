@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Plane
+comment1.params=
+comment1.target=void\ StartPlane()
+comment2.params=
+comment2.target=void\ ShutdownPlane()
+comment3.params=passenger\ ticket
+comment3.target=boolean\ PassengerCheckIn(Passenger,\ Ticket)
+comment4.params=
+comment4.target=boolean\ PassengerCheckOut()
+comment5.params=
+comment5.target=boolean\ PlaneTakeOff()
+comment6.params=
+comment6.target=boolean\ PlaneLanding()
+comment7.params=Text
+comment7.target=void\ Announce(java.lang.String)
+numComments=8
